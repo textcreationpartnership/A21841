@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Queenes Maiesties will and commaundement, to  haue certaine lawes and orders put in execution against the excesse of apparell notified by her commandement in the Starre- chamber the xiij. of Februarie in the xxx. yeere of her reigne.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1588</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21841</idno>
+            <idno type="STC">STC 8168</idno>
+            <idno type="STC">ESTC S3159</idno>
+            <idno type="EEBO-CITATION">33143085</idno>
+            <idno type="OCLC">ocm 33143085</idno>
+            <idno type="VID">28218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:90)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Queenes Maiesties will and commaundement, to  haue certaine lawes and orders put in execution against the excesse of apparell notified by her commandement in the Starre- chamber the xiij. of Februarie in the xxx. yeere of her reigne.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>13. Febr. Anno 1587 [i.e. 1588]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sheet 2, par. 1 has 4 lines; sheet 3 has imprint dated 13 Feb. 1587.</note>
+                  <note>Elizabeth's proclamation, followed by excerpts from the statutes of Henry VIII, and Mary I.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: tightly bound, with loss of text.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sumptuary laws --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:28218:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> A declaration of the Queenes Maieſties will and commaundement, to haue certaine
+Lawes and orders put in execution againſt the exceſſe of Apparell, notified by her
+commandement in the Starre<g ref="char:EOLhyphen"/>chamber the xiij. of Februarie in the xxx. yeere of her reigne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes Maieſtie hath conſidered into what extremities agreat num<g ref="char:EOLhyphen"/>ber of her Subiects
+are fallen by the vnordinate exceſſe in apparell, contrary both to the good lawes of the
+Realme, and to her Maieſties former admoniti<g ref="char:EOLhyphen"/>ons by her Proclamations, and to the confuſion of
+degrees of all eſtates, a<g ref="char:EOLhyphen"/>mongſt whome diuerſitie of apparell hath bene alwayes a ſpeciall
+and lauda<g ref="char:EOLhyphen"/>ble marke, and finally to the impoueriſhing of the Realme, by dayly bringing into the
+ſame of ſuperfluitie of forreine and vnneceſſarie commodities, not able to be anſwered
+with the naturall marchandiſe of the Realme, as in all for<g ref="char:EOLhyphen"/>mer times wel gouerned hath bene
+vſed, and in all other kingdoms and coun<g ref="char:EOLhyphen"/>tries is politiquely obſerued. For theſe and many
+other weightie conſiderations, her Maieſtie vpon ſpeciall care of the weale and good
+gouernment of her kingdome, hath with the aduiſe of her Counſel, thought it meete and moſt
+neceſſary at this time, to notifie in the latter ende of this Terme of <hi>Hillary</hi> in her
+high Court of the Starre chamber, at an aſſemblie of diuers Lords and others of her priuie
+Counſell, and all the Iuſtices of her Courtes at Weſtminſter, and in the open hearing of a
+great number of the Iuſtices of the Peace of all the parts of her Realme, and of a multitude of
+other of her Subiects, that her earneſt meaning is, without delay to haue
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeedie reformation of this great intollerable
+abuſe, growen to an vnmeaſurable diſorder, and the ſame to bee done by due execution of
+certaine parts of her Lawes remayning in force, in ſuch ſort as may beſt bee agreeable to the
+preſent time: And to that ende, for the beſt example of all others that can bee, hath alreadie
+for her owne moſt honourable Houſholde charged and authoriſed the Lorde Steward of her
+Houſholde, now preſent at this aſſemblie, for all perſons vnder his charge, and to the
+Lorde Chamberlaine or Vicechamberlaine for all perſons
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder their rule, to obſerue ſuch parts of
+her ſaide Lawes, and ſome neceſſary orders againſt exceſſe of apparel,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are hereafter particularly expreſſed to be
+duely obſerued: which to doe effectually the ſaid Lord Steward for the houſholde, and the
+Vicechamberlayne in the abſence of the Lord Chamberlayne haue vndertaken to ſee ex<g ref="char:EOLhyphen"/>ecuted. And
+at the ſame time alſo, her Maieſties pleaſure was declared in her ſaid Starrechamber, by
+the Lord Chancellor of England (as ſo commanded by her Maieſtie) that all the Iuſtices of
+Aſſiſes of the Realme, who were then there preſent, ſhoulde in their next Circuite
+through her whole Realme giue knowledge thereof in their open Seſſions, &amp; to charge all
+Iuſtices of peace, that in their quarter Seſſions, and in any other their aſ<g ref="char:EOLhyphen"/>ſemblies,
+and alſo all Maiors, and Officers of Townes Corporate, &amp; all Officers of Liberties in their
+Courts, ſhould ſee to the ſpeedy execution thereof, after conuenient time to be limitted for
+a reaſonable warning, by the ſaid Iuſtices of Aſſiſe, for the due execution and
+puniſhment of the offenders, ſo as no ſubiect of the Realme ſhal
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aue cauſe by ignorance to continue in their
+offence. The like commandement alſo was there in that aſſemblie giuen by the ſaid Lord
+Chancelor to all the Heads, Auncients &amp; Principals of houſes of Court and Chancerie, where
+the aforeſaide exceſſe was noted to be more largely of late yeeres ſpread amongſt the
+youth there, then in any other place of England, to ſee alſo to the ſpeedie reformation
+thereof. The like commaundement alſo was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here
+remembred to haue bene of late giuen by her Maieſties owne mouth to the Maior of London, and the
+Al<g ref="char:EOLhyphen"/>dermen of the ſame, being before her Maieſtie in her Preſence chamber at her Court. So as
+it may wel appeare <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow earneſtly her Maieſtie
+is reſolued to haue this notable diſorder and exceſſe ſpeedily &amp; earneſtly reformed
+for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he benefit of her Realme. At the ſame
+aſſembly alſo was concluded y<hi rend="sup">t</hi> in the two Vniuerſities of Cambridge and Oxford, where this
+infection was ſeene to haue made entrie amongſt the youth, there ſhould be by the direction
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lords the Chancelours of the ſame, a
+ſtreight order for repreſſing of the ſaid diſordered exceſſe of Apparell.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd though her Maieſtie might by iuſtice of
+her lawes, make great profite by the execution of the ſame lawes
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>maining in force againſt the ſaid
+exceſſe, by leuying the great penalties due to her by execution of the ſame,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that alſo ſome part of the ſame lawes,
+being made diuers yeeres paſt, by the alteration of time, may ſeeme inſome part hard to be
+exactly and duely obſerued in all parts: Therefore hir Maieſties meaning was there de<g ref="char:EOLhyphen"/>clared at
+this time to be to make ſome proofe of the execution onely of ſome parts of the ſame lawes,
+agreeable for the time heereafter expreſſed, without charging her ſubiects with the great
+forfeitures alreadie due to her Maieſtie, except it ſhall be againſt ſuch perſons as
+ſhe ſhall be prouoked by finding them diſobedient and vnwil<g ref="char:EOLhyphen"/>ling to obey and obſerue the
+ſpeciall clauſes and articles hereafter following.</p>
+            <div type="clauses_excised">
+               <pb facs="tcp:28218:2" rendition="simple:additions"/>
+               <head>Certaine clauſes taken out of the Statute made for reformation of exceſſe of Apparell,
+<hi>the xxiiij. yeere of the reigne of king Henrie the eight.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, it is ordered, that no man vnder the degree of a Marqueſſe, Earle, and their
+chil<g ref="char:EOLhyphen"/>dren, or vnder the degree of a Baron, vnleſſe he be a knight of the order of the garter,
+ſhall weare in any part of his apparell, any wollen cloth made out of any of the Queenes
+Ma<g ref="char:EOLhyphen"/>ieſties dominions, except in Bonnettes onely.</p>
+               <p>Item that no man vnder the degree of a Barons ſonne, or a knight, except he may expend two
+hundred poundes by yeere, for terme of life, ouer all charges, ſhall weare any maner of Veluet in
+his Gowne, Coate, or other his vppermoſt garment: nor any maner of embrodery, or pricking with
+golde, ſiluer, or ſilke, in any part of his apparell, or on thapparell of his Horſe or
+Mule.</p>
+               <p>Item that no man vnder the foreſaid eſtates and degree, ſauing ſuch as may diſpend in
+yerely reuenues, as is aforeſayde, one hundred poundes, aboue all charges, ſhall weare any
+Satten, Damaſke, Silke Chamblet, or Taffata in his Gowne, Coate, or other his vppermoſt apparel
+or garment: nor any Veluet, ſauing in ſleeueleſſe Iackettes, Doblettes, Coyffes,
+Partelettes, and Purſes.</p>
+               <p>Item, that no man vnder the ſayde degrees, ſauing the ſonne and heyre apparant of a man
+that may diſpend three hundred markes by yere, aboue all charges, and ſuch other men as may
+diſpend in yeerely reuenue, as is aforeſayde, fourtie poundes ouer all charges, ſhall weare
+in his Gowne, or any other his vppermoſt apparell, Chamblet, or Silke: nor in any other part of
+his apparell any ſilke, ſauing Satten, Damaſke, Tafftata, or Sarſenet in his Doblets: and
+Sarſenet, Chamblet, or Taffata, in the lyning of his Gownes, or Veluet in his ſleeueleſſe
+Coates, Iackets, Ierkins, Coyffes, Cappes, Purſes, or Partelets. The colours of Scarlet,
+Crymſin or Blewe, alwayes excepted.</p>
+               <p>Item, that no man vnder the ſaid degrees, ſauing ſuch gentlemen as may diſpend in yerely
+reuenues, as is aforeſaid, twentie poundes aboue all charges, ſhall weare any maner of ſilke
+in any apparell of his body, or of his Horſe, or Mule, except it be Satten, Taffata, Sarſenet,
+or Damaſke in his Doblet, or Coyffe: and Chamblet in his ſleeueleſſe Iackets: or poynts,
+laces, or garters, made in England or Wales.</p>
+               <p>Item, that no perſon vnder the ſame degrees, ſauing ſuch as may diſpend fiue poundes
+by yeere, as is afore<g ref="char:EOLhyphen"/>ſaid, aboue all charges, ſhall weare any ſilke in his Doblettes or
+Iackettes: nor any thing made out of the Realme, ſauing Chamblet in their Doblettes and
+Iackettes.</p>
+               <p>Item that no Seruing man, nor other Yeoman taking wages, nor ſuch other as may not diſpende
+of free<g ref="char:EOLhyphen"/>holde fourtie ſhillings by yere, as is aforeſaid, ſhall weare any Shert, or Shert
+band, vnder or vpper Cappe, Bonet, or Hat garniſhed, mixt, made, or wrought with ſilke, golde,
+or ſiluer: nor ſhall weare any Bonet, or Shert band, made out of the Realme of England or
+Wales.</p>
+               <p>Item, no Huſbandman ſhall weare in his Doblette, any other thing then that which is wrought
+within this Realme, Fuſtian and Canuaſſe onely except.</p>
+               <p>Item, no Seruing man in Huſbandry, or Iourneyman in handycraftes, taking wages, ſhall weare
+in his Doblet, any other thing then Fuſtian, Canuas, Leather, or Wollen cloth.</p>
+               <p>¶ Item, if any man ſhal vſe or weare any Apparel or other thing, contrary to y<hi rend="sup">e</hi> tenour
+of the Articles before remembred, then he ſo offending, ſhall forfaite the Apparel and thing
+ſo worne, wherewith ſoeuer it be gar<g ref="char:EOLhyphen"/>niſhed, or the value thereof, and alſo
+iii.<abbr>s.</abbr>iiii.<abbr>d.</abbr> in the name of a fine, for euery day that he ſhall ſo
+weare the ſame, contrary to the tenour hereof.</p>
+            </div>
+            <div type="clauses">
+               <head>
+                  <g ref="char:leaf">❧</g> Certaine other clauſes of the Statutes, made in the firſt and ſecond yere of
+King Philip and Queene Mary, neceſſary alſo to be obſerued, to auoyde the exceſſe of
+apparell.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, that no Engliſhman, ſauing the ſonne and heyre apparant of a Knight, or ſuch
+as may of yeerely reuenues during life, expend twentie poundes aboue all charges, or be worth in
+goods two hundreth poundes, ſhall weare any maner of ſilke, in or vpon his Hatte, Bonnet,
+Nightcap, Gyrdle, Scabberd, Hoſe, Shooes, or Spurlethers, vpon payne of three moneths
+impriſonment, and fine of x.li. for euery dayes wearing, contrary to the tenour of this Act.</p>
+               <p>Item, that if any perſon or perſons, of any eſtate or degree, knowing any ſeruaunt of
+his or theirs to offende, contrary to the Article laſt before remembred, do not put the ſame
+ſeruaunt out of his or their ſeruice, but ſhall keepe in his or their ſeruice the ſame
+offendour or offendours, by the ſpace of xiiii. dayes next after ſuch know<g ref="char:EOLhyphen"/>ledge had: or ſo
+put out, retayne him againe within one yeere next after ſuch offence, the ſame perſon ſo
+retay<g ref="char:EOLhyphen"/>ning or keeping in ſeruice any ſuch offender, ſhall forfayte one hundreth poundes.</p>
+               <pb facs="tcp:28218:3" rendition="simple:additions"/>
+               <p>Prouided alwayes, that all and euery perſon and perſons, which by any ſtatute lawe,
+remaining in force, is licenced or appoynted to weare any maner of thing, contrary to the tenour
+and meaning of any of the Articles before remembred, or any part of them, ſhall and may weare the
+ſame to him licenced or appointed to weare, as is aforeſayde: Any thing in theſe Articles to
+the contrary notwithſtanding.</p>
+            </div>
+            <div type="orders">
+               <head>
+                  <g ref="char:leaf">❧</g> Certaine other orders meete in this time to be obſerued for reformation of the
+exceſſe in certaine kinde of Apparell.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, it is further ordered, that no man vnder the degree of a Barons ſonne, except that
+hee be of the order of the Garter, or of the Priuie Counſell, or that may diſpend fiue hundred
+markes by yeere, for terme of life in poſſeſſion, aboue all charges, ſhall vſe any
+embroderies or paſſemayns of Golde or Siluer: nor ſhall weare any maner of ſilke
+neatherſtocks of hoſen, nor of any other thing, made out of the Queenes Maieſties
+Dominions.</p>
+               <p>Item, it is further ordered, that all the articles before remembred, ſhalbe put in execution
+in all points, by all maner of officers, according to the Statutes, lawes, and proclamations
+heretofore made and ſet forth, concer<g ref="char:EOLhyphen"/>ning the ſame. And for ſuch as ſhall contemne any of
+the orders before mencioned, being deuiſed by her Maie<g ref="char:EOLhyphen"/>ſties commandement, the offendors to be
+attached, and committed to priſon, and to be there continued and pu<g ref="char:EOLhyphen"/>niſhed, as appertaineth to
+ſuch as ſhall wilfully breake her Maieſties commaundement in cauſes concerning the publike
+weale of the Realme.</p>
+               <p>It is not meant for any thing aboue expreſſed, but that the ſeruants of Noblemen and
+gentlemen may weare ſuch liuerie coates, as their maſters ſhall allowe them, with their
+Badges or other ornamentes of any veluet or ſilke, to be laide, or added to their ſaide liuerie
+coates.</p>
+            </div>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the deputies of Chriſtopher Barker, printer to the Queenes
+moſt excellent Maieſtie.</p>
+            <closer>
+               <date>13. Febr. Anno 1587.</date>
+            </closer>
+         </div>
+         <div type="privilege">
+            <p>
+               <hi>Cum priuilegio Regiae Maieſtatis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
